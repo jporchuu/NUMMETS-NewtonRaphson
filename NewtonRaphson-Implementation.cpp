@@ -6,7 +6,8 @@ using namespace std;
 double f(double poly[], int n, double x);
 void newtonRaphson(double polynomial[], int n, double x);
 
-int main() { 
+int main() {
+  
     int degree;
 	double initGuess;
 	
